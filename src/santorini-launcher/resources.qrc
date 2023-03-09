@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/resources">
+    <file>icons/logo.ico</file>
+    <file>images/logo.png</file>
+    <file>fonts/DalekPinpointBold.ttf</file>
+  </qresource>
+</RCC>
